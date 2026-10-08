@@ -273,4 +273,6 @@ __pycache__/
 /src/packages
 /src/.vscode
 /src/Luban/Properties/*.json
+!.env.example
+!.env.template
 config.bat
